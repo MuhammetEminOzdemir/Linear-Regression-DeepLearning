@@ -5,4 +5,4 @@ Veri setimiz: https://www.kaggle.com/datasets/thomasnibb/amsterdam-house-price-p
 
 
 We built and trained our model with Linear Regression, one of the machine learning algorithms, 
-and then we trained our model using deep learning (keras and tensorflow).
+and then we trained our model using deep learning (keras and tensorflow)
